@@ -16,7 +16,7 @@ end
 
 def output_array(array = ["All", "great", "achievments", "require", "time", "-Maya Angelou"])
   counter = 0
-  While array[counter] do
+  while array[counter] do
     puts array[counter]
     counter += 1
   end
