@@ -21,3 +21,10 @@ def output_array(array = ["All", "great", "achievments", "require", "time", "-Ma
     counter += 1
   end
 end
+
+def return_string_array(array = [5, 4, 3, 2, 1])
+  counter = 0
+  while counter < array.length do
+    push.array[counter]
+    counter =+1
+    
