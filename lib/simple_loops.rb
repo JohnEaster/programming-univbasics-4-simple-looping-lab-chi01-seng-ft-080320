@@ -13,3 +13,5 @@ def loop_message_n_times(message = "Hello Wolrd", n = 10)
     counter += 1
   end
 end
+
+output_array(array = ["All", "great", "achievments", "require", "time", "-Maya Angelou"])
